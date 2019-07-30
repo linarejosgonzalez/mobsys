@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherStation</string>
+    <string name="textView" />
+    <string name="button1">Check Temperature</string>
+    <string name="button2">Check Humidity</string>
+    <string name="button3">Check Pressure and Altitude</string>
+    <string name="humidity1">Relative Humidity in % is:</string>
+    <string name="Humidity2">The absolute humidity at temperature 0.0. is:</string>
+    <string name="Humidity3">The dew point at temperature 0.0 is:</string>
+    <string name="pressure1">Pressure in mbar is:</string>
+    <string name="Pressure2">Current Altitude is</string>
+    <string name="temperature">Temperature in degree Celsius is:</string>
+    <string name="button4">Compare Sensor Activity</string>
+</resources>

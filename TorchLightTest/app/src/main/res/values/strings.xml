@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TorchLightTest</string>
+    <string name="textView">Put the finger into the proximity sensor to turn on the torch</string>
+</resources>

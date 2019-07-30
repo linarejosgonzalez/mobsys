@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppRotateTest</string>
+    <string name="activate_gyroscope">activate gyroscope</string>
+    <string name="activate_rotation_vector">activate rotation vector</string>
+</resources>

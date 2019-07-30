@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DetermineMovement</string>
+    <string name="selectSensorSectionHeading">Select Sensor</string>
+    <string name="accelerometerLabel">Accelerometer</string>
+    <string name="linearAccelerationSensorLabel">Linear Accelerometer</string>
+    <string name="optionsSectionHeading">Options</string>
+    <string name="speakMovementDetectedLabel">TTS</string>
+    <string name="enableHighPassFilterLabel">Enable High Pass</string>
+    <string name="readingAccelerationData">Reading</string>
+    <string name="startReadingAccelerationData">Start Reading</string>
+    <string name="movementDetectedText">Movement detected</string>
+</resources>
