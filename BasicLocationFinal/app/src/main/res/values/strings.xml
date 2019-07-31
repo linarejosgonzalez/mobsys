@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicLocationFinal</string>
+    <string name="textView">Location</string>
+</resources>
